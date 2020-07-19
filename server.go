@@ -6,10 +6,6 @@ import (
 	"strings"
 )
 
-func serve() {
-
-}
-
 func main() {
 	fmt.Println("server started")
 
